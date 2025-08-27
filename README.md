@@ -15,10 +15,10 @@ Hello! I'm Peeyush Tyagi, an accomplished Site Reliability Engineer (SRE) with e
 
 ## 🛠️ Skills
 
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&#x26;logo=google-cloud&#x26;logoColor=white" alt="GCP">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&#x26;logo=amazon-aws&#x26;logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&#x26;logo=docker&#x26;logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&#x26;logo=kubernetes&#x26;logoColor=white" alt="Kubernetes">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&#x26;logo=google-cloud&#x26;logoColor=white" alt="GCP">&nbsp;
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&#x26;logo=amazon-aws&#x26;logoColor=white" alt="AWS">&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&#x26;logo=docker&#x26;logoColor=white" alt="Docker">&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&#x26;logo=kubernetes&#x26;logoColor=white" alt="Kubernetes">&nbsp;
 <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&#x26;logo=terraform&#x26;logoColor=white" alt="Terraform">
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&#x26;logo=ansible&#x26;logoColor=white" alt="Ansible">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&#x26;logo=prometheus&#x26;logoColor=white" alt="Prometheus">
